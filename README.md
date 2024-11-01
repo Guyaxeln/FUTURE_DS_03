@@ -33,8 +33,8 @@ Clone the repository:
 
 bash
 Copier le code
-git clone https://github.com/username/loan-approval-prediction.git
-cd loan-approval-prediction
+git clone https://github.com/Guyaxeln/FUTURE_DS_03.git
+   cd FUTURE_DS_03
 Install the required packages:
 
 bash
